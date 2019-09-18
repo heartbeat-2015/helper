@@ -1,0 +1,17 @@
+{
+    "name": "zqbx/helper",
+    "description": "function tool",
+    "authors": [
+        {
+            "name": "zqbx",
+            "email": "597050481@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"zqbx\\": "src/"
+		}
+	}
+}
