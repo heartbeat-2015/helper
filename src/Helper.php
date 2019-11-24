@@ -17,7 +17,7 @@ class Helper
      * @param string $level level标记字段
      * @return array
      */
-    function list_to_tree($list, $pk = 'id', $pid = 'pid', $child = 'children', $root = 0)
+    static function list_to_tree($list, $pk = 'id', $pid = 'pid', $child = 'children', $root = 0)
     {
         // 创建Tree
         $tree = array();
