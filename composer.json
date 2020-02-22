@@ -1,6 +1,7 @@
 {
 	"name" : "zqbx/helper",
 	"description" : "function tool",
+	"license": "MIT",
 	"authors" : [{
 			"name" : "zqbx",
 			"email" : "597050481@qq.com"
